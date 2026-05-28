@@ -110,4 +110,20 @@ body {
     display: flex;
     width: 950px;
     gap: 20px;
+    margin-top: 20px;
+}
+
+input {
+    height: 32px;
+    border: solid 1px #cdcdcd;
+    border-radius: 4px;
+    margin-top: 8px;
+    outline: none;
+    padding: 6px;
+}
+
+.lugar {
+    display: flex;
+    flex: 20px;
+    padding: 20px;
 }
